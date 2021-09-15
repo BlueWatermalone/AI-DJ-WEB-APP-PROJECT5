@@ -1,0 +1,25 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note {
+    font-size: 15;
+    color: black;
+}
+
+body {
+    background-size: cover;
+    font-family: 'Acme', sans-serif;
+}
+
+.song-button {
+    width: 130px;
+    font-size: 25px;
+}
+canvas {
+    border:5px solid ghostwhite;
+    border-radius: 20px;
+    margin-top: 200px;
+}
